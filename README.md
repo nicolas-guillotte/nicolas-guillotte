@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![COVER](https://github.com/nicolas-guillotte/nicolas-guillotte/blob/main/img/profil-modified.png)
+
 <!--
 **nicolas-guillotte/nicolas-guillotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
