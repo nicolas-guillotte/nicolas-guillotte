@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![COVER](https://github.com/nicolas-guillotte/nicolas-guillotte/blob/main/img/profil-modified.png)
+<img src="https://github.com/nicolas-guillotte/nicolas-guillotte/blob/main/img/profil-modified.png" alt="Profil picture" width="200"/>
 
 <!--
 **nicolas-guillotte/nicolas-guillotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
