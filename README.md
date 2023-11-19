@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://github.com/nicolas-guillotte/nicolas-guillotte/blob/main/img/profil-modified.png" alt="Profil picture" width="200"/>
 
 - 🔭 Actuellement en formation Developpeur Web chez O'clock
