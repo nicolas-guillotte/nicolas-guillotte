@@ -2,12 +2,13 @@
 
 👋 Salut, moi c’est Nicolas
 
-Développeur Web chez Clikeo depuis 2024, spécialisé PHP / VueJS / Node.js, intéressé par
+Développeur Web chez Clikeo depuis 2024, spécialisé PHP / VueJS, intéressé par
 l’architecture backend, la performance, l’observabilité et les systèmes distribués.
 
 📌 Ce que je fais au quotidien
+	
 	•	Développement backend (modules internes, intégration API, traitement de données)
-	•	UI VueJS avec logique métier non triviale
+	•	UI VueJS intégrant une logique métier complexe
 	•	Automatisation et optimisation de workflows internes
 
 📫 Me contacter :
@@ -20,15 +21,23 @@ l’architecture backend, la performance, l’observabilité et les systèmes di
 
 Backend
 
-PHP | Node.js | SQL (MariaDB / PostgreSQL) | Redis
+	• PHP
+	• SQL (MariaDB / PostgreSQL)
+	• Redis
 
 Frontend
 
-VueJS | HTML / CSS / JS
+	• VueJS
+	• HTML
+	• CSS
+	• JS
+	• ReactJS
 
 Outils / Environnement
 
-Git • Nginx/Apache • Linux
+	• Git
+	• Nginx/Apache
+	• Linux
 
 ⸻
 
@@ -48,22 +57,22 @@ Concevoir une architecture tolérante aux pannes, observable et contrôlable, in
 
 🔧 Stack technique
 
-    •	Node.js (API + worker)
-	•	Redis (queue)
-	•	PostgreSQL (persistance)
-	•	Dashboard web (Vue/React)
-	•	Autocannon (stress test)
+	 •	Node.js (API + worker)
+		•	Redis (queue)
+		•	PostgreSQL (persistance)
+		•	Dashboard web (Vue/React)
+		•	Autocannon (stress test)
 
 ⸻
 
 ✨ Fonctionnalités clés
 
-✔️ API planifiant des traitements lourds
-✔️ Worker isolé avec retry + backoff exponentiel + idempotence
-✔️ Crash recovery et reprise automatique des jobs
-✔️ Logging structuré multi-process
-✔️ Monitoring live des jobs
-✔️ Dashboard interactif avec :
+	✔️ API planifiant des traitements lourds
+	✔️ Worker isolé avec retry + backoff exponentiel + idempotence
+	✔️ Crash recovery et reprise automatique des jobs
+	✔️ Logging structuré multi-process
+	✔️ Monitoring live des jobs
+	✔️ Dashboard interactif avec :
 
     • métriques live
     • logs streaming
